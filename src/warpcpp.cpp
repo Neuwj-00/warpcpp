@@ -152,7 +152,7 @@ void print_header() {
     std::cout << "\n";
     std::cout << "  " << BOLD << CF_ORANGE << "☁️  CLOUD"
               << CF_YELLOW << "FLARE "
-              << CF_BRIGHT << "WARP+ " << RESET << "v3.0\n";
+              << CF_BRIGHT << "WARP+ " << RESET << "v2.0.4\n";
     std::cout << "  " << CF_YELLOW << "made by Neuwj - neuwj@bk.ru\n" << RESET;
     std::cout << CF_ORANGE << get_separator() << "\n" << RESET;
 }
